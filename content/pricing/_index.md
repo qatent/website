@@ -7,47 +7,45 @@ draft: false
 
 basic:
   name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
+  price: "$299"
+  price_per : "invention"
   info : "Best For Small Individuals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "30 minutes claim drafting assistance"
+  - "Express description generation"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Get started"
+    link : "mailto:qatent@inria.fr"
     
 professional:
   name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
+  price: "$999"
+  price_per : "invention"
   info : "Best For Professionals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "1 hour claim drafting assistance"
+  - "Generation with options"
+  - "3 hours post-editing"
+
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Get started"
+    link : "mailto:qatent@inria.fr"
     
 business:
   name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  price: "$1499"
+  price_per : "invention"
+  info : "Best For Companies"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "2 hour claim drafting assistance by our French patent attorney"
+  - "Generation with options"
+  - "4 hours post-editing by our French patent attorney"
   button:
     enable : true
-    label : "Get started for free"
-    link : "#"
+    label : "Get started"
+    link : "mailto:qatent@inria.fr"
 
 call_to_action:
   enable : true
