@@ -51,9 +51,9 @@ call_to_action:
   enable : true
   title : "Need a larger plan?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Let us know about your specific needs."
   button:
     enable : true
     label : "Contact Us"
-    link : "contact"
+    link : "mailto:qatent@inria.fr"
 ---

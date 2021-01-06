@@ -37,11 +37,11 @@ link = "plugins/slick/slick.min.js"
 
 ############################## navigation ###############################
 
-# main menu
+
 [[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 1
+name = "Jobs"
+URL = "jobs"
+weight = 3
 
 [[menu.main]]
 name = "Pricing"
@@ -51,12 +51,12 @@ weight = 2
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 4
 
 [[menu.main]]
-name = "Products"
-URL = "Products"
-weight = 4
+name = "products"
+URL = "products"
+weight = 1
 
 [[menu.main]]
 name = "Intranet"
@@ -68,26 +68,15 @@ weight = 4
 name = "About Us"
 URL = "#"
 
-[[menu.footer_left]]
-name = "Quick Start"
-URL = "#"
-
-[[menu.footer_left]]
-name = "Pricing"
-URL = "pricing"
-
 
 # footer menu middle
 [[menu.footer_middle]]
 name = "Pricing"
 URL = "pricing"
 
-[[menu.footer_middle]]
-name = "Platform"
-URL = "#"
 
 [[menu.footer_middle]]
-name = "Features"
+name = "Products"
 URL = "#"
 
 # footer menu right
@@ -100,8 +89,8 @@ name = "Terms & Conditions"
 URL = "terms-conditions"
 
 [[menu.footer_right]]
-name = "FAQ"
-URL = "faq"
+name = "products"
+URL = "products"
 
 #################### default parameters ################################
 [params]
@@ -117,7 +106,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "A.I. for patents."
 # copyright
 copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -134,22 +123,14 @@ link = "contact"
 
   
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "skype"
-icon = "ti-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/QatentPatent"
 
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/qatent/"

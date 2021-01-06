@@ -2,11 +2,11 @@
 banner:
   title : "A.I. for patents"
   image : "images/qatent-illustrated.svg"
-  content : "Natural Language Generation and machine learning are coming to help write better patents faster"
+  content : "Natural Language Generation and machine learning to write better patents faster"
   button:
     enable : true
     label : "Contact Us"
-    link : "contact"
+    link : "mailto:qatent@inria.fr"
 
 ##################### Feature ##########################
 feature:
@@ -31,7 +31,7 @@ feature:
     # feature item loop
     - name : "Patent attorney support "
       icon : "ti-alarm-clock"
-      content : "Get free real-time support by our qualified French patent attorney. 12/24, CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
+      content : "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
       
     # feature item loop
     - name : "Secured"
@@ -52,16 +52,16 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "qatent is the most advanced technology for patent documents"
+    - title : "qatent develops the most advanced technology for patent documents"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Natural Language Procesing and Generation. Machine learning. Heuristics. Know-how encoding. And more."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "mailto:qatent@inria.fr"
         
     # service item loop
     - title : "qatent benefits from the support of Inria, a leading research organization"
@@ -102,4 +102,4 @@ call_to_action:
   button:
     enable : true
     label : "Contact Us"
-    link : "contact"
+    link : "mailto:qatent@inria.fr"

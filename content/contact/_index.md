@@ -2,13 +2,12 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "qatent contact"
 draft: false
 ---
 
 
 ### Contact us !
-Lorem 
 
 * **Phone: +33 6 95 72 40 03** 
 * **Mail: qatent@inria.fr**
