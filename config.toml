@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://qatent.com"
+baseURL = "https://qatent.com"
 title = "qatent for your patents"
 theme = "bigspring"
 languageName = "En"
@@ -60,7 +60,7 @@ weight = 4
 
 [[menu.main]]
 name = "Intranet"
-URL = "intranet"
+URL = "https://intranet.qatent.com"
 weight = 4
 
 # footer menu left
