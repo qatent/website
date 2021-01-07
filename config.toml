@@ -108,7 +108,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "A.I. for patents."
 # copyright
-copyright = "Design by [Themefisher](https://themefisher.com/) Developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/)"
+copyright = "Design by [Themefisher](https://themefisher.com/) Developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/) and [Unsplash](https://unsplash.com/)"
 
 # Preloader
 [params.preloader]
