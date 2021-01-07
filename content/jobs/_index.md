@@ -1,7 +1,9 @@
 ---
 title: "We're hiring"
-subtitle: "Yay!"
+subtitle: "You will work at the Inria Startup Studio Paris! Yay!"
 # meta description
-description: "This is meta description"
+description: "work at qatent"
 draft: false
 ---
+
+qsdf

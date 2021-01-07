@@ -43,10 +43,10 @@ name = "Jobs"
 URL = "jobs"
 weight = 3
 
-[[menu.main]]
-name = "Pricing"
-URL = "pricing"
-weight = 2
+# [[menu.main]]
+# name = "Pricing"
+# URL = "pricing"
+# weight = 2
 
 [[menu.main]]
 name = "Contact"
@@ -70,9 +70,9 @@ URL = "about"
 
 
 # footer menu middle
-[[menu.footer_middle]]
-name = "Pricing"
-URL = "pricing"
+# [[menu.footer_middle]]
+# name = "Pricing"
+# URL = "pricing"
 
 
 [[menu.footer_middle]]
@@ -88,9 +88,9 @@ URL = "privacy-policy"
 name = "Terms & Conditions"
 URL = "terms-conditions"
 
-[[menu.footer_right]]
-name = "products"
-URL = "products"
+# [[menu.footer_right]]
+# name = "products"
+# URL = "products"
 
 #################### default parameters ################################
 [params]
@@ -108,7 +108,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "A.I. for patents."
 # copyright
-copyright = "Design by [Themefisher](https://themefisher.com/) Developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/) and [Unsplash](https://unsplash.com/)"
+copyright = "Design by [Themefisher](https://themefisher.com/) developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/) and [Unsplash](https://unsplash.com/)"
 
 # Preloader
 [params.preloader]

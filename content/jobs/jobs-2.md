@@ -6,7 +6,7 @@ image: "images/claudio-schwarz-purzlbaum-Qcg8iLq2DH0-unsplash.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description"
+description: "qatent: NLP backend engineer"
 # post draft
 draft: false
 ---
@@ -38,11 +38,11 @@ travail en terminologie;
 
 **Compétences**
 
-Très bon niveau en Python 
-Très bonne maîtrise d’un framework ML tel que PyTorch et TensorFlow
-Connaissances solides en matière de Traitement du Langage Naturel
-Très bonne maîtrise des librairies Python/TAL (Spacy, NLTK, etc.)
-Pratique de SQLite ou équivalent
+- Très bon niveau en Python 
+- Très bonne maîtrise d’un framework ML tel que PyTorch et TensorFlow
+- Connaissances solides en matière de Traitement du Langage Naturel
+- Très bonne maîtrise des librairies Python/TAL (Spacy, NLTK, etc.)
+- Pratique de SQLite ou équivalent
 
 
 **L'essentiel pour réussir**
