@@ -12,161 +12,48 @@ draft: false
 ---
 
 
-#### Frontend engineer 6 months
+#### Ingénieur frontend  (6 mois, prolongeable)
 
-Post Edit and use `######` for heading 6.
+Post
 
-# Heading 1 
-<br>
-
-## Heading 2 
-
-<br>
-
-### Heading 3 
-
-<br>
-
-#### Heading 4 
-
-<br>
-
-##### Heading 5 
-
-<br>
-
-###### Heading 6
-
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+ **Contexte et atouts du poste**
  
-```python
-s = "Python syntax highlighting"
-print s
-```
+Le poste d’ingénieur(e) d’une durée de 6 mois est proposé à l’Inria Paris, pour le développement des interfaces d’outils en Traitement Automatique des Langues (TAL) appliqués aux brevets d’invention.
+  
+Ce projet a pour objectif de développer des outils pour les rédacteurs de demande de brevet (3 millions de demandes par an), notamment: un outil d’édition de revendications de brevet, un outil de génération automatique d’une demande de brevet à partir de ces revendications et un outil de validation d’une demande de brevet, qu’elle soit générée ou pas.
 
-<hr>
+Le marché de la Propriété Industrielle est stratégique, le poste ne requiert pas de connaissances préalables dans le domaine, mais une curiosité sincère est recommandée. 
 
-##### Blockquote
+Vous échangerez au quotidien avec une équipe sympathique et surmotivée composée d’un Conseil en Propriété Industrielle et d’un chercheur en I.A. pour le détail des spécifications, et avec un Professeur en TAL pour les aspects techniques. 
 
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+Possibilité réelle de pérennisation du contrat (Inria, création de Start-up, etc), y compris des parts dans la société à construire.
+ 
+**Principales activités**
+Les activités porteront sur :
+le développement logiciel (front-end) de la plateforme 
+la sécurisation des communications client-serveur, qui est primordiale dans le contexte de la propriété industrielle
+la réalisation autonome de “projets dans le projet” (e.g. Etherpad sécurisé)
+Les échanges quotidiens avec une petite équipe surmotivée de très haut niveau, et ce dans un cadre convivial et de confiance
 
 
-<hr>
+**L'essentiel pour réussir**
+Les activités porteront sur :
+- Le développement logiciel (front-end), en lien avec le back-end, de la plateforme d’assistance à la rédaction de demandes de brevet. Vous maitrisez JavascriptAJAX et les outils UX modernes comme Vue / Quasar pour créer une interface utilisateur ergonomique, fluide, et rapide. Vous êtes prêts à des itérations rapides, en développement agile.
+- Le développement ponctuel et test de mini-projets dans le projet, par exemple l’intégration d’un Etherpad sécurisé pour l’écriture collaborative, l’intégration d’outils comme BigBlueButton, Calendly pour des assistances (sécurisées) client par chat et/ou vidéo, la reprise d’un framework Django existant d’un autre projet, voire l’affichage de mots dans un environnement de réalité virtuelle, etc.
+- La sécurisation de la plateforme (communications client/serveur,  comptes clients, etc), incluant l’intégration du paiement. Python requis, Django bienvenu. Deux modes d’échanges sont prévus: SaaS d’une part et in-house (chez le client) d’autre part. Des connaissances en C++ sont bienvenues.
+- La participation aux tests de la plateforme en test chez les clients puis en conditions réelles.
+- La participation aux réunions d’équipes (choix et développement agile de nouvelles fonctionnalités)
+- A terme, un intérêt pour le machine learning, en lien avec le backend. 
+ 
+**UX/UI and visual design softwares :**
+Adobe Photoshop, Illustrator ou équivalents
 
-##### Tables
+**Programmation Web :**
+HTML5, CSS3, SASS, JavaScript
 
-Colons can be used to align columns.
+**Front-end JavaScript frameworks :** 
+VueJS, Vuex, Quasar Framework
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+**Développement logiciel :** 
+Git 
+Python, PHP, SQL
