@@ -26,7 +26,7 @@ professional:
   services:
   - "1 hour claim drafting assistance"
   - "Generation with options"
-  - "3 hours post-editing"
+  - "2 hours post-editing"
 
   button:
     enable : true
