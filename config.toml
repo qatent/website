@@ -97,8 +97,8 @@ URL = "products"
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "qatent brings AI to patents"
+author = "qatent"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
