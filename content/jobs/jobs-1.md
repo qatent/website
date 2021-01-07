@@ -1,8 +1,8 @@
 ---
 title: "Frontend engineer - 6 months"
-date: 2020-04-18T10:07:21+06:00
+date: 2021-01-06T10:07:21+06:00
 # post image
-image: "images/blog/post-1.jpg"
+image: "images/ferenc-almasi-EJSaEnVvZcg-unsplash.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description

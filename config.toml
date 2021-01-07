@@ -5,7 +5,7 @@ theme = "bigspring"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "3"
+paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -66,7 +66,7 @@ weight = 4
 # footer menu left
 [[menu.footer_left]]
 name = "About Us"
-URL = "#"
+URL = "about"
 
 
 # footer menu middle
@@ -108,7 +108,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "A.I. for patents."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design by [Themefisher](https://themefisher.com/) Developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/)"
 
 # Preloader
 [params.preloader]

@@ -1,8 +1,8 @@
 ---
-title: "Pump-up the team morale and celebrate the excellence"
-date: 2020-04-18T10:07:21+06:00
+title: "NLP backend engineer - 12 months"
+date: 2021-01-06T10:07:21+06:00
 # post image
-image: "images/blog/post-2.jpg"
+image: "images/claudio-schwarz-purzlbaum-Qcg8iLq2DH0-unsplash.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description

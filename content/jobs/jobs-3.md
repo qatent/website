@@ -2,7 +2,7 @@
 title: "screens with built in Present and Dismiss animations."
 date: 2020-04-18T10:07:21+06:00
 # post image
-image: "images/blog/post-3.jpg"
+image: "images/markus-spiske-iar-afB0QQw-unsplash.jpg"
 # post type (regular/featured)
 type: "regular"
 # meta description
@@ -13,7 +13,7 @@ draft: false
 
 ##### Paragraph
 
-**Stage 1: d’un vocabulaire de brevets vers spanBERT**
+**Stage 1: construction d’un vocabulaire de brevets by means of deep learning**
 
 Création d’un vocabulaire technique multimots par croisement du vocabulaire extrait de Wikipédia avec un corpus de brevets. Lire https://stackoverflow.com/questions/61218518/count-frequency-of-multi-word-terms-in-large-texts-with-python/61293305#61293305 
 

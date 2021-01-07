@@ -1,28 +1,7 @@
 ---
 title: "We're hiring"
-subtitle: ""
+subtitle: "Yay!"
 # meta description
-description: "jobs"
+description: "This is meta description"
 draft: false
 ---
-
-
-### Job 1
-
-* **job** 
-
-### Job 2
-
-* **job** 
-
-### Stage 1
-
-* **job** 
-
-### Stage 2
-
-* **job** 
-
-### Stage 3
-
-* **job** 
