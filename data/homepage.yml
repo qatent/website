@@ -11,7 +11,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "ti-id-badge applies leading-edge Natural Language Generation and machine learning to patents."
+  title : "**qatent** applies leading-edge Natural Language Generation and machine learning to patents."
   feature_item:
     # feature item loop
     - name : "Draft easier"
@@ -52,7 +52,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "ti-id-badge develops the most advanced technology for patent documents"
+    - title : "**qatent** develops the most advanced technology for patent documents"
       images:
       - "images/service-1.png"
       - "images/almanachInriaBabel.png"
@@ -64,10 +64,10 @@ service:
         link : "mailto:qatent@inria.fr"
         
     # service item loop
-    - title : "ti-id-badge benefits from the support of Inria, a leading research organization"
+    - title : "**qatent** benefits from the support of Inria, a leading research organization"
       images:
       - "images/service-1.png"
-      content : "**qatent** benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021).  <br>We are affiliated with and hosted by the [ALMAnaCH Inria team](https://team.inria.fr/almanach/) specializing in Deep Learning for Natural Language Processing. <br>ti-id-badge also offers support by our French patent attorney in the team."
+      content : "**qatent** benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021).  <br>We are affiliated with and hosted by the [ALMAnaCH Inria team](https://team.inria.fr/almanach/) specializing in Deep Learning for Natural Language Processing. <br>**qatent** also offers support by our French patent attorney in the team."
       button:
         enable : true
         label : "Find out more about Inria"
