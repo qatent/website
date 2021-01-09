@@ -11,21 +11,22 @@ description: "qatent: NLP backend engineer"
 draft: false
 ---
 
+## Ingénieur Backend TAL (12 mois) @Centre Inria, Paris 12e, Inria Startup Studio & équipe Almanach
 
-#### Backend
-
-#Contexte et atouts du poste
+### Contexte et atouts du poste
 
 Le poste d’ingénieur(e) d’une durée de 12 mois est proposé à l’Inria Paris, pour le développement des interfaces d’outils en Traitement Automatique des Langues (TAL) appliqués aux brevets d’invention.  
 Ce projet a pour objectif de développer des outils pour les rédacteurs de demande de brevet (3 millions de demandes par an), notamment: un outil d’édition de revendications de brevet, un outil de génération automatique d’une demande de brevet à partir de ces revendications et un outil de validation d’une demande de brevet, qu’elle soit générée ou pas.
 
 Le marché de la Propriété Industrielle est stratégique, le poste ne requiert pas de connaissances préalables dans le domaine, mais une curiosité sincère est recommandée.
 
-Vous serez intégré(e) dans l’équipe Inria ALMAnaCH et vous échangerez au quotidien avec une équipe sympathique et surmotivée composée d’un Conseil en Propriété Industrielle et d’un chercheur en I.A. pour le détail des spécifications, et avec un professeur en TAL pour les aspects techniques.
+Vous serez intégré(e) dans [l’équipe Inria ALMAnaCH](https://team.inria.fr/almanach/fr/) et vous échangerez au quotidien avec une équipe sympathique et surmotivée composée d’un Conseil en Propriété Industrielle et d’un chercheur en I.A. pour le détail des spécifications, et avec un professeur en TAL pour les aspects techniques.
+
+Début du contrat idéal : début mars.
 
 Possibilité réelle de pérennisation du contrat (Inria, création de Start-up, etc), y compris des parts dans la société à construire.
 
-**Principales activités**
+### Principales activités
 Les activités porteront sur :
 - le développement logiciel (back-end) de la plateforme 
 - l’extraction d’information à partir de très grands corpus ;
@@ -34,9 +35,10 @@ travail en terminologie;
 - génération de texte, complétion de phrases;
 - le développement de backend en Django (comptes clients, etc);
 - gestion de bases de données SQLite;
+- bonne maîtrise de l'anglais;
 - aide pour la sécurisation du backend  (e.g. double authentication).
 
-**Compétences**
+### Compétences
 
 - Très bon niveau en Python 
 - Très bonne maîtrise d’un framework ML tel que PyTorch et TensorFlow
@@ -45,7 +47,7 @@ travail en terminologie;
 - Pratique de SQLite ou équivalent
 
 
-**L'essentiel pour réussir**
+### L'essentiel pour réussir
 Les activités porteront sur :
 - Le développement de mini-projets dans le projet, par exemple travail sur des plongements lexicaux (embeddings) spécifiques aux textes techniques e.g. affinement de modèles BERT, l’extraction d’information à partir de très grands corpus, génération de texte, des auto-complétions de revendications, travail en terminologie, etc. Vous êtes prêts à des itérations rapides, en développement agile.
 - Le développement logiciel (back-end), en lien avec le front-end de la plateforme d’assistance à la rédaction de demandes de brevet.
@@ -53,125 +55,5 @@ Les activités porteront sur :
 - La participation aux réunions d’équipes (choix et développement agile de nouvelles fonctionnalités)
 
 
-<br>
-
-
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
 <hr>
 
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}

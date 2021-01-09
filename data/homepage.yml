@@ -11,36 +11,36 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "qatent applies leading-edge Natural Language Generation and machine learning to patents."
+  title : "ti-id-badge applies leading-edge Natural Language Generation and machine learning to patents."
   feature_item:
     # feature item loop
     - name : "Draft easier"
-      icon : "ti-pulse"
+      icon : "ti-wand"
       content : "Get rid of routine work, we automate what can be."
       
     # feature item loop
     - name : "Draft better"
-      icon : "ti-package"
+      icon : "ti-thumb-up "
       content : "Get insights from the analysis of 70 million patent documents."
 
       # feature item loop
     - name : "Draft faster"
-      icon : "ti-alarm-clock"
+      icon : "ti-timer"
       content : "Leverage Natural Language Generation and machine learning."
       
     # feature item loop
     - name : "Patent attorney support "
-      icon : "ti-alarm-clock"
+      icon : "ti-headphone-alt"
       content : "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
       
     # feature item loop
     - name : "Secured"
-      icon : "ti-credit-card"
+      icon : "ti-lock"
       content : "With focus on the computer security of our platform, we handle your claims with confidentiality."
       
     # feature item loop
     - name : "Trust"
-      icon : "ti-headphone-alt"
+      icon : "ti-id-badge"
       content : "INRIA is a highly trustable institution and renowned lab in France for computer science."
       
     
@@ -52,39 +52,39 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "qatent develops the most advanced technology for patent documents"
+    - title : "ti-id-badge develops the most advanced technology for patent documents"
       images:
       - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
-      content : "Natural Language Procesing and Generation. Machine learning. Heuristics. Know-how encoding. And more."
+      - "images/almanachInriaBabel.png"
+      - "images/raphael-schaller-GkinCd2enIY-unsplash.jpg"
+      content : "Natural Language Procesing and Generation. <br>Machine learning. <br>Heuristics. Know-how encoding. And more."
       button:
         enable : true
-        label : "Check it out"
+        label : "Get into contact with us"
         link : "mailto:qatent@inria.fr"
         
     # service item loop
-    - title : "qatent benefits from the support of Inria, a leading research organization"
+    - title : "ti-id-badge benefits from the support of Inria, a leading research organization"
       images:
       - "images/service-1.png"
-      content : "qatent benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021). qatent also offers support by our French patent attorney in the team."
+      content : "**qatent** benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021).  <br>We are affiliated with and hosted by the [ALMAnaCH Inria team](https://team.inria.fr/almanach/) specializing in Deep Learning for Natural Language Processing. <br>ti-id-badge also offers support by our French patent attorney in the team."
       button:
         enable : true
-        label : "Check it out"
+        label : "Find out more about Inria"
         link : "https://www.inria.fr/en"
         
     # service item loop
     - title : "A team with unique track records"
       images:
-      - "images/service-2.png"
-      content : "Kim Gerdes is a Professor in Computational Linguistics, responsible for the Master “Artificial Intelligence” (University Paris Saclay, ENS Ulm). Jean-Marc Deltorn is the former head of the A.I. group at the European Patent Office."
+      - "images/almanachInriaBabel.png"
+      content : "[Kim Gerdes](https://gerdes.fr) is a Professor in Computational Linguistics, co-responsible for the Master track “Artificial Intelligence” ([University Paris Saclay](https://www.universite-paris-saclay.fr/)) and former member of the [ALMAnaCH team](https://team.inria.fr/almanach/).<br>Jean-Marc Deltorn is the former head of the A.I. group at the  European Patent Office."
       button:
         enable : true
         label : "Check it out"
         link : "https://www.linkedin.com/in/jean-marc-deltorn-809751158/"
         
   
-        
+    #    
 # ################### Screenshot ########################
 # screenshot:
 #   enable : true

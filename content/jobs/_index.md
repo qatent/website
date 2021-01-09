@@ -6,4 +6,3 @@ description: "work at qatent"
 draft: false
 ---
 
-qsdf

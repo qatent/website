@@ -1,32 +1,35 @@
 ---
 title: "Pricing"
-subtitle: ""
+subtitle: "While our tools are under heavy code developments, we offer free and paid demo access to our prototypes"
 # meta description
-description: "This is meta description"
+description: "qatent Pricing Plans"
 draft: false
 
-basic:
-  name : "Basic Plan"
-  price: "$299"
-  price_per : "invention"
-  info : "Best For Small Individuals"
-  services:
-  - "30 minutes claim drafting assistance"
-  - "Express description generation"
-  button:
-    enable : true
-    label : "Get started"
-    link : "mailto:qatent@inria.fr"
+#### While our tools are under heavy code developments, we offer you a free demo session to have a look at our prototypes, with live support of François, our qualified French patent attorney (“Conseil en Propriété Industrielle”).
+
+
+# basic:
+#   name : "Basic Plan"
+#   price: "$299"
+#   price_per : "invention"
+#   info : "Best For Small Individuals"
+#   services:
+#   - "30 minutes claim drafting assistance"
+#   - "Express description generation"
+#   button:
+#     enable : true
+#     label : "Get started"
+#     link : "mailto:qatent@inria.fr"
     
 professional:
   name : "Professional Plan"
-  price: "$999"
-  price_per : "invention"
+  price: "free"
+  price_per : "1 invention"
   info : "Best For Professionals"
   services:
-  - "1 hour claim drafting assistance"
-  - "Generation with options"
-  - "2 hours post-editing"
+  - "15 minutes claim drafting assistance"
+  - "Discover how **qatent** technology can assist your patent drafting process"
+  - "Take home some new terms, structures, and ideas for the description of your invention"
 
   button:
     enable : true
@@ -35,13 +38,13 @@ professional:
     
 business:
   name : "Business Plan"
-  price: "$1499"
-  price_per : "invention"
+  price: "150€"
+  price_per : "hour"
   info : "Best For Companies"
   services:
-  - "2 hour claim drafting assistance by our French patent attorney"
-  - "Generation with options"
-  - "4 hours post-editing by our French patent attorney"
+  - "Use our prototypes and get confidential claim drafting assistance from our patent attorney."
+  - "Dive right away into deep-tech tools for your ongoing project"
+  - "See your needs being coded into reality between sessions"
   button:
     enable : true
     label : "Get started"
@@ -49,7 +52,7 @@ business:
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Want to use Deep Tech on patents in other ways?"
   image : "images/cta.svg"
   content : "Let us know about your specific needs."
   button:

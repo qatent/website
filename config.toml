@@ -43,10 +43,10 @@ name = "Jobs"
 URL = "jobs"
 weight = 3
 
-# [[menu.main]]
-# name = "Pricing"
-# URL = "pricing"
-# weight = 2
+[[menu.main]]
+name = "Pricing"
+URL = "pricing"
+weight = 2
 
 [[menu.main]]
 name = "Contact"
@@ -64,29 +64,34 @@ URL = "https://intranet.qatent.com"
 weight = 4
 
 # footer menu left
-[[menu.footer_left]]
-name = "About Us"
-URL = "about"
-
-
-# footer menu middle
-# [[menu.footer_middle]]
-# name = "Pricing"
-# URL = "pricing"
-
+# [[menu.footer_left]]
+# name = "About Us"
+# URL = "about"
 
 [[menu.footer_middle]]
 name = "Products"
-URL = "#"
+URL = "products"
+
+# footer menu middle
+[[menu.footer_middle]]
+name = "Pricing"
+URL = "pricing"
+
+
+
 
 # footer menu right
-[[menu.footer_right]]
-name = "Privacy Policy"
-URL = "privacy-policy"
+# [[menu.footer_right]]
+# name = "Privacy Policy"
+# URL = "privacy-policy"
 
 [[menu.footer_right]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
+name = "About Us"
+URL = "about"
+
+# [[menu.footer_right]]
+# name = "Terms & Conditions"
+# URL = "terms-conditions"
 
 # [[menu.footer_right]]
 # name = "products"
@@ -103,9 +108,9 @@ author = "qatent"
 contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
-footer_menu_left = "Company"
+# footer_menu_left = "Company"
 footer_menu_middle = "Product"
-footer_menu_right = "Support"
+footer_menu_right = "Company"
 footer_content = "A.I. for patents."
 # copyright
 copyright = "Design by [Themefisher](https://themefisher.com/) developed by [Gethugothemes](https://gethugothemes.com/), Images by [Undraw](https://undraw.co/) and [Unsplash](https://unsplash.com/)"
