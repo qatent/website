@@ -24,7 +24,7 @@ Le startup studio d’Inria propose un stage pour le projet **qatent**: Il s’a
 * Identifier les mentions aux jurisprudences (T 00/641 = “COMVIK”, etc…)
 * Identifier les références aux situations de droit (“inventive step / non-obviousness / inventiveness ”, “novelty”, “clarity/clear/unclear/vague”, “technical effect”, “objective problem”, “problem-solution”, “added subject-matter”, etc...)
 
-* Utiliser des outils spécifiques pour les breverts (patent-NER) pour établir une relation entre jurisprudence et Directives OEB, voir https://www.epo.org/law-practice/legal-texts/html/caselaw/2019/f/index.htm 
+* Utiliser des outils spécifiques pour les brevets (patent-NER) pour établir une relation entre jurisprudence et Directives OEB, voir https://www.epo.org/law-practice/legal-texts/html/caselaw/2019/f/index.htm 
 
 <!-- 
 Feedback legal intelligent avant soumission de demande de brevet
