@@ -19,7 +19,7 @@ Le startup studio d’Inria propose un stage pour le projet **qatent**: Il s’a
 
 ##### mots clés
 * patent-NER 
-* Constitution d'une base de jurisprudence annotée de l'Office Européen de Brevets
+* Constitution d'une base de jurisprudence annotée de l'Office Européen des Brevets
 * Identification dans les textes des références à la jurisprudence et des mentions aux articles/règles de la Convention Européenne des Brevets (Article 56 EPC, A. 56, Art. 56 CBE…)
 * Identifier les mentions aux jurisprudences (T 00/641 = “COMVIK”, etc…)
 * Identifier les références aux situations de droit (“inventive step / non-obviousness / inventiveness ”, “novelty”, “clarity/clear/unclear/vague”, “technical effect”, “objective problem”, “problem-solution”, “added subject-matter”, etc...)
