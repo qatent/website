@@ -22,12 +22,12 @@ draft: false
 {{</ faq >}}
 
 {{< faq "3. Patent application validator: File better " >}}
-* Validate a patent application of yours: get insights regarding legal support in your text, applicable Case Law and Examination directives (EP and US), probable amendments based on the analysis of similar cases in the examination corpus, possible antecedence’s errors in your claims, and other irregularities. 
-* Make sure that your text won’t cause you trouble downstream.
+* Validate your patent application: get insights regarding legal support, applicable Case Law and Examination directives (EP and US), probable amendments based on the analysis of similar cases in the examination corpus, possible antecedence’s errors in your claims, and other irregularities. 
+* Control the risk of objections during patent prosectuion.
 {{</ faq >}}
 
 {{< faq "4. Trends" >}}
-* We love quantum physics and blockchains. Get insights about weak signals.
+* We love AI/ML, quantum physics and blockchains. Get insights about weak signals.
 {{</ faq >}}
 
 
