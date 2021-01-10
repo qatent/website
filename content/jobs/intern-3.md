@@ -15,12 +15,12 @@ draft: false
 
 #### Stage en legaltech: Construction d’une base de données légale pour brevets
 
-Le startup studio d’Inria propose un stage pour le projet **qatent**: Il s’agit de constituer un corpus de la jurisprudence autour des brevets et le préparer pour y identifier les termes
+Le startup studio d’Inria propose un stage pour le projet **qatent**: Il s’agit de constituer un corpus de la jurisprudence des brevets et le préparer pour y identifier les termes spécifiques au langage des brevets.
 
 ##### mots clés
 * patent-NER 
-* Constitution d'une base de jurisprudence annotée du Bureau Européenne de brevets
-* Identification dans les textes des références à la jurisprudence et des mentions aux articles/règles de la Convention (Article 56 EPC, A. 56, Art. 56 CBE…)
+* Constitution d'une base de jurisprudence annotée de l'Office Européen de Brevets
+* Identification dans les textes des références à la jurisprudence et des mentions aux articles/règles de la Convention Européenne des Brevets (Article 56 EPC, A. 56, Art. 56 CBE…)
 * Identifier les mentions aux jurisprudences (T 00/641 = “COMVIK”, etc…)
 * Identifier les références aux situations de droit (“inventive step / non-obviousness / inventiveness ”, “novelty”, “clarity/clear/unclear/vague”, “technical effect”, “objective problem”, “problem-solution”, “added subject-matter”, etc...)
 
