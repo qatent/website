@@ -23,8 +23,8 @@ draft: false
 
 
 #### L'essentiel pour réussir
-* Il est important d'être opérationnel en python et outils TAL d'apprentissage profond (Spacy, Pytorch, ...)
-* Aussi : Il vous faut une fascintation pour la langue et le traitement automatique de la langue
+* Il est important d'être opérationnel en python et outils TAL d'apprentissage profond (NLTK, Spacy, Pytorch, ...)
+* Aussi : Vous êtes passionné(e) par l'étude de la langue et par le traitement automatique de la langue
 
 Début du contrat idéal : début mars.
 
