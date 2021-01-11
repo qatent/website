@@ -1,5 +1,5 @@
 ---
-title: "Stage 1: construction d’un vocabulaire de brevets by means of deep learning"
+title: "Stage 1: construction d’un vocabulaire de brevets à l'aide du deep learning sur très grands corpus"
 date: 2021-01-05T10:07:21+06:00
 # post image
 image: "images/markus-spiske-iar-afB0QQw-unsplash.jpg"
