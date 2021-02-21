@@ -77,7 +77,7 @@ service:
     - title : "A team with unique track records"
       images:
       - "images/almanachInriaBabel.png"
-      content : "[Kim Gerdes](https://gerdes.fr) is a Professor in Computational Linguistics, co-responsible for the Master track “Artificial Intelligence” ([University Paris Saclay](https://www.universite-paris-saclay.fr/)) and former member of the [ALMAnaCH team](https://team.inria.fr/almanach/).<br>Jean-Marc Deltorn is the former head of the A.I. group at the  European Patent Office."
+      content : "[Kim Gerdes](https://gerdes.fr) is a Professor in Computational Linguistics, co-responsible for the Master track “Artificial Intelligence” ([University Paris Saclay](https://www.universite-paris-saclay.fr/)) and former member of the [ALMAnaCH team](https://team.inria.fr/almanach/).<br>Jean-Marc Deltorn is senior researcher at CEIPI where he co-directs the university diploma on AI & IP and formerly responsible for the examination of AI applications at the  European Patent Office."
       button:
         enable : true
         label : "Check it out"
