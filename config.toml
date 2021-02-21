@@ -39,8 +39,8 @@ link = "plugins/slick/slick.min.js"
 
 
 [[menu.main]]
-name = "Jobs"
-URL = "jobs"
+name = "Team"
+URL = "team"
 weight = 3
 
 [[menu.main]]

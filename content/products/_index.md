@@ -17,13 +17,13 @@ draft: false
 
 {{< faq "2. Patent description generator: File more and faster." >}}
 * From your patent claims, in one click, generate a description ready to be filed. Options let you control this generation.
-* If needed, you can draft overnight and generate as many pages neededd from a simple claim tree. 
+* If needed, you can draft overnight and generate as many pages needed from a simple claim tree. 
 * If needed, you can focus on post-editing, leverage powerful options and perfect your text. Make sure you use our super-templates embodying industry best practices, combined with cutting-edge machine learning.
 {{</ faq >}}
 
 {{< faq "3. Patent application validator: File better " >}}
-* Validate your patent application: get insights regarding legal support, applicable Case Law and Examination directives (EP and US), probable amendments based on the analysis of similar cases in the examination corpus, possible antecedence’s errors in your claims, and other irregularities. 
-* Control the risk of objections during patent prosectuion.
+* Validate your patent application: get insights regarding legal support, applicable Case Law and Examination Guidelines (EP and US), probable amendments based on the analysis of similar cases in the examination corpus, possible antecedence’s errors in your claims, and other irregularities. 
+* Control the risk of objections during patent prosecution.
 {{</ faq >}}
 
 {{< faq "4. Trends" >}}

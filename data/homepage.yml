@@ -57,7 +57,7 @@ service:
       - "images/service-1.png"
       - "images/almanachInriaBabel.png"
       - "images/raphael-schaller-GkinCd2enIY-unsplash.jpg"
-      content : "Natural Language Procesing and Generation. <br>Machine learning. <br>Heuristics. Know-how encoding. And more."
+      content : "Natural Language Processing and Generation. <br>Machine learning. <br>Heuristics. Know-how encoding. And more."
       button:
         enable : true
         label : "Get into contact with us"
