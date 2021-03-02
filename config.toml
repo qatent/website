@@ -33,6 +33,7 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
+plugins_js = ["custom"]
 
 
 ############################## navigation ###############################
@@ -61,7 +62,12 @@ weight = 1
 [[menu.main]]
 name = "Intranet"
 URL = "https://intranet.qatent.com"
-weight = 4
+weight = 5
+
+[[menu.main]]
+name = "Roadmap"
+URL = "roadmap"
+weight = 3
 
 # footer menu left
 # [[menu.footer_left]]
@@ -77,6 +83,9 @@ URL = "products"
 name = "Pricing"
 URL = "pricing"
 
+[[menu.footer_middle]]
+name = "Roadmap"
+URL = "roadmap"
 
 
 
@@ -89,6 +98,10 @@ URL = "pricing"
 name = "About Us"
 URL = "about"
 
+[[menu.footer_right]]
+name = "Team"
+URL = "team"
+
 # [[menu.footer_right]]
 # name = "Terms & Conditions"
 # URL = "terms-conditions"
@@ -99,7 +112,7 @@ URL = "about"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/qatent-logo.png"
 logo_width = "200px"
 # Meta data
 description = "qatent brings AI to patents"
