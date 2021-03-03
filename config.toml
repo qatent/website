@@ -52,7 +52,7 @@ weight = 2
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "products"
@@ -62,12 +62,12 @@ weight = 1
 [[menu.main]]
 name = "Intranet"
 URL = "https://intranet.qatent.com"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Roadmap"
 URL = "roadmap"
-weight = 3
+weight = 4
 
 # footer menu left
 # [[menu.footer_left]]
@@ -112,7 +112,7 @@ URL = "team"
 
 #################### default parameters ################################
 [params]
-logo = "images/qatent-logo.png"
+logo = "images/qatent-logo-check.svg"
 logo_width = "200px"
 # Meta data
 description = "qatent brings AI to patents"
