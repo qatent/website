@@ -1,0 +1,191 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<div id="roadmap">
+    <div class="roadmap-hero">
+       <img src="/images/qatent-logo-check.svg" alt="">
+        <h1>ROADMAP</h1>
+        <p>Interactive Roadmap of qatent — A.I. for Patents</p>
+        
+    </div>
+    <div class="scroll-anim">
+        <h5>EXPLORE NOW</h5>
+        <a href="#roadmap-main"><svg id="more-arrows">
+        <polygon class="arrow-top" points="37.6,27.9 1.8,1.3 3.3,0 37.6,25.3 71.9,0 73.7,1.3 "/>
+        <polygon class="arrow-middle" points="37.6,45.8 0.8,18.7 4.4,16.4 37.6,41.2 71.2,16.4 74.5,18.7 "/>
+        <polygon class="arrow-bottom" points="37.6,64 0,36.1 5.1,32.8 37.6,56.8 70.4,32.8 75.5,36.1 "/>
+      </svg></a></div>
+  
+    <div id="roadmap-main">
+      <div class="roadmap-banner">
+        <div class="title-header">
+          <h1>TECHNOLOGICAL MATURITY</h1>
+          <div class="title-line"></div>
+      </div>
+      </div>
+        <div class="chart-wrapper">
+            <ol class="chart-values list-unstyled">
+                <li>Earlier</li>
+                <li>Q1 2021</li>
+                <li>Q2 2021</li>
+                <li>Q3 2021</li>
+                <li>Q4 2021</li>
+                <li>Q1 2022</li>
+                <li>Later</li>
+            </ol>
+            <div class="chart-bars list-unstyled">
+              <li data-duration="Earlier-Q3 2021" data-color="#b03532" data-toggle="modal" data-target='#claim'><span>Claim processing</span></li>
+            <li data-duration="Earlier-Q3 2021" data-color="#33a8a5" data-toggle="modal" data-target='#description'><span>Description Processing</span></li>
+            <li data-duration="Earlier-Q4 2021" data-color="#30997a" data-toggle="modal" data-target='#validation'><span>Validation Processing</span></li>
+            <li data-duration="Q2 2021-Later" data-color="#3d8bb1" data-toggle="modal" data-target='#domain'><span>Domain Specification</span></li>
+            <li data-duration="Q2 2021-Later" data-color="#da6f2b" data-toggle="modal" data-target='#corporate'><span>Corporate Intelligence</span></li>
+            </div>
+        </div>
+    
+         <!-- MODAL POPUP  -->
+         <div class="modal fade" id='claim'>
+          <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+          <div class="modal-header text-center">
+          <h3>Claim processing</h3>
+          <button class="close" type="button" data-dismiss='modal'>x</button>
+          </div>
+          <div class="modal-body">
+            <img src="/images/processor.svg" alt="">
+              <div class="popup-content"><h3>Editor: File better patents</h3>
+              <ul>
+              <li>The latest generation NLP tools specific to technical fields</li>
+              <li>Contextual automatic suggestions</li>
+              <li>Rapid sentence-completion</li>
+              <li>Patent specific vocabulary check</li>
+              <li>Verification of co-references</li>
+              <li>Wordnet and Wikipedia definitions</li>
+              <li>Concordancer</li>
+              </ul>
+              </div>
+          </div>  
+          </div>
+          <!-- END MODAL-CONTENT -->
+          </div>
+          <!-- END MODAL-DIALOG -->
+          </div>
+            <!-- MODAL POPUP  -->
+        <div class="modal fade" id='description'>
+          <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+          <div class="modal-header text-center">
+          <h3>Description Processing <br>  </h3>
+          <button class="close" type="button" data-dismiss='modal'>x</button>
+          </div>
+          <div class="modal-body">
+            <img src="/images/processor.svg" alt="">
+              <div class="popup-content"><h3>Generator: Deposit more patents</h3>
+              <ul>
+              <li>From claims to description in 1 click</li>
+              <li>Encoding the Know-How
+              (scripts)</li>
+              <li>Controlled generation
+              (hybrid AI, parametric approach)</li>
+              
+              </ul>
+              </div>
+          </div>  
+          </div>
+          <!-- END MODAL-CONTENT -->
+          </div>
+          <!-- END MODAL-DIALOG -->
+          </div>
+          <!-- END MODAL  -->
+          <!-- MODAL POPUP  -->
+          <div class="modal fade" id='validation'>
+          <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+          <div class="modal-header">
+          <h3>Validation Processing <br> </h3>
+          <button class="close" type="button" data-dismiss='modal'>x</button>
+          </div>
+          <div class="modal-body">
+            <img src="/images/processor.svg" alt="">
+            <div class="popup-content"><h3>Validation: Effective patent filing</h3>
+              <ul>
+              <li>Data from Patent Offices downstream corpus (exams)</li>
+              <li>Clarity</li>
+              <li>Sufficient description</li>
+              <li>Formal irregularities</li>
+              <li>Interpretation of US search queries</li>
+              <li>Case law reminders</li>
+              <li>Avoid ( major ) support errors</li>
+              <li>Machine/human peer-review service</li>
+              </ul> 
+          </div>  
+           </div>
+          <!-- END MODAL-CONTENT -->
+          </div>
+          <!-- END MODAL-DIALOG -->
+          </div>
+          </div>
+          <!-- END MODAL  -->
+          <!-- MODAL POPUP  -->
+          <div class="modal w-100 fade" id='domain'>
+            <div class="modal-dialog ">
+            <div class="modal-content domain">
+            <div class="modal-header">
+            <h3>Domain Specification</h3>
+            <button class="close" type="button" data-dismiss='modal'>x</button>
+            </div>
+            <div class="modal-body">    
+              <div class="popup-content">
+              <!-- <h3>Visualization of CPC embeddings</h3> -->
+                <ul>
+                <li>Creation of further specific models of important and emerging technology areas</li>
+                </ul> 
+            </div>  
+            </div>
+            <!-- END MODAL-CONTENT -->
+            </div>
+            <!-- END MODAL-DIALOG -->
+            </div>
+          </div>
+          <!-- MODAL POPUP  -->
+          <div class="modal w-100 fade" id='corporate'>
+            <div class="modal-dialog modal-lg">
+            <div class="modal-content corporate">
+            <div class="modal-header">
+            <h3>Corporate Intelligence</h3>
+            <button class="close" type="button" data-dismiss='modal'>x</button>
+            </div>
+            <div class="modal-body">    
+              <div class="popup-content"><h3>Visualization of CPC embeddings</h3>
+                <ul>
+                <li>Visually browse through patent space</li>
+                <li>Classify any text</li>
+                </ul> 
+            </div>  
+            </div>
+            <!-- END MODAL-CONTENT -->
+            </div>
+            <!-- END MODAL-DIALOG -->
+            </div>
+          </div>
+  
+                </div>
+        
+        
+    </div>
+    <script>
+      function teamAnim(e){
+          const tl = gsap.timeline();
+          //line
+      tl.fromTo('.title-line', {scale: 0}, {scale:1, duration: 1});
+      tl.fromTo('.teams', {opacity: 0}, {opacity: 1, duration: 3})
+  
+      }
+  
+      window.addEventListener('load', teamAnim);
+     
+  
+  </script>
+
+
+{{end}}

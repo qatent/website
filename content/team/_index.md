@@ -6,7 +6,7 @@ description: "meet the people that bring NLP to patents"
 draft: false
 ---
 
-<div class='team'>
+<!-- <div class='team'>
 <div class='profile profile1'>
 <div class='profilePicture'>
 
@@ -109,4 +109,4 @@ draft: false
 
 </div>
 </div>
-</div>
+</div> -->

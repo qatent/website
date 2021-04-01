@@ -1,0 +1,41 @@
+####################### Claim Processing #########################
+
+claim: 
+  title: 'Claim Processing'
+  subtitle: 'Editor: File better patents'
+  ongoing_goals:
+    - content: Contextual automatic suggestions
+    - content: Rapid sentence-completion
+    - content: Patent specific vocabulary check
+  
+  completed_goals: 
+    - content: Verification of co-references
+    - content: Wordnet and Wikipedia definitions
+    - content: Concordancer
+
+
+description: 
+  title: 'Claim Processing'
+  subtitle: 'Generator: Deposit more patents'
+  ongoing_goals:
+    - content: From claims to description in 1 click
+    - content: Encoding the Know-How (scripts)
+    - content: Controlled generation (hybrid AI, parametric approach)
+  
+  completed_goals: 
+    - content: Goal1
+    - content: Goal2
+    - content: Goal3
+
+description: 
+  title: 'Claim Processing'
+  subtitle: 'Validation: effective patent filing'
+  ongoing_goals:
+    - content: Contextual automatic suggestions
+    - content: Rapid sentence-completion
+    - content: Patent specific vocabulary check
+  
+  completed_goals: 
+    - content: Verification of co-references
+    - content: Wordnet and Wikipedia definitions
+    - content: Concordancer

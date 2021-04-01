@@ -1,0 +1,102 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<div class='team-section'>
+    <div class="title-header">
+        <h1>MEET THE TEAM</h1>
+        <div class="title-line"></div>
+    </div>
+    <div class="sub-container">
+    <div class="teams">
+        <img src="/images/François.png" alt="François">
+        <div class="name">François Veltz</div>
+        <!-- <div class="designation">Patent Attorney</div> -->
+        <div class="about">Patent Attorney specializing in the algorithmics behind patent drafting.</div>
+        <div class="social-link">
+            <a href="https://algopatent.com"><i class="ti-world"></i></a>
+        </div>
+    
+</div>
+    <div class="teams">
+        <img src="/images/Kim.jpg" alt="Kim">
+        <div class="name">Kim Gerdes</div>
+        <!-- <div class="designation">Professor in Computational Linguistics, <a href="https://www.universite-paris-saclay.fr">University Paris Saclay</a></div> -->
+        <div class="about">Professor in Computational Linguistics, member of the TLP research group at the Lisn, co-responsible for the Master track “Artificial Intelligence” in University Paris Saclay </div>
+        <div class="social-link">
+            <a href="https://gerdes.fr"><i class="ti-world"></i></a>
+        </div>
+    </div>
+    <div class="teams">
+        <img src="/images/Jean-Marc.jpg" alt="Jean-Marc">
+        <div class="name">Jean-Marc Deltorn</div>
+        <!-- <div class="designation">Senior researcher at CEIPI, University of Strasbourg</div> -->
+        <div class="about">Senior researcher at CEIPI, University of Strasbourg, where he co-directs the University Diploma on AI & IP, and formerly in charge of AI applications (text, images, speech) at the European Patent Office.</div>
+        <div class="social-link">
+            <a href="https://www.linkedin.com/in/jean-marc-deltorn-809751158/"><i class="ti-linkedin"></i></a>
+        </div>
+    </div>
+    <div class="team-divider"></div>
+    <div class="teams">
+        <img src="/images/Abdelhak.jpg" alt="Abdelhak">
+        <div class="name">Abdelhak Kelious</div>
+        <!-- <div class="designation">Data Science Intern</div> -->
+        <div class="about">Computer Science Student at the University of Paris, doing his final internship at INRIA with qatent on the construction of a jurisprudence database. He is interested in Artificial Intelligence, Data Science, and Data engineering.</div>
+        <!-- <div class="social-link">
+            <a href="#"><i class="ti-linkedin"></i></a>
+        </div> -->
+    </div>
+    <div class="teams">
+        <img src="/images/Alma.png" alt="Alma">
+        <div class="name">Alma Parias García</div>
+        <!-- <div class="designation">Data Science Intern </div> -->
+        <div class="about">EIT Data Science student from the Universidad Politécnica in Madrid / University Paris-Saclay, doing her internship at Inria/qatent on Multi-Word embeddings. She holds a bachelor in Mathematics and Software Engineering from the Universidad Rey Juan Carlos in Madrid.</div>
+        <!-- <div class="social-link">
+            <a href="#"><i class="ti-linkedin"></i></a>
+        </div> -->
+    </div>
+    <div class="teams">
+        <img src="/images/Ji.png" alt="Ji">
+        <div class="name">Ji Pei</div>
+        <!-- <div class="designation">Back-end engineer </div> -->
+        <div class="about">Back-end engineer. He holds a bachelor in Statistics from Fujian Agriculture and Forestry University, and a engineering diploma with a Data Science major from ESIEA (École d’Ingénieurs en Sciences et Technologies du Numérique).</div>
+        <!-- <div class="social-link">
+            <a href="#"><i class="ti-linkedin"></i></a>
+        </div> -->
+    </div>
+    <div class="team-divider"></div>
+    <div class="teams">
+        <img src="/images/Venkat.png" alt="Venkat">
+        <div class="name">Venkat Kumari Natarajan</div>
+        <!-- <div class="designation">Front-End Engineer </div> -->
+        <div class="about">Graduate from EPITA specialized in Software Engineering, focusing on front-end development with JavaScript & Frameworks. She holds a Bachelor in Computer Science & Engineering from the University College of Engineering, Kanchipuram</div>
+        <!-- <div class="social-link">
+            <a href="#"><i class="ti-linkedin"></i></a>
+        </div> -->
+    </div>
+    <div class="teams">
+        <img src="/images/Zongmin.jpg" alt="Zongmin">
+        <div class="name">Zongmin Li</div>
+        <!-- <div class="designation">Data Science Intern </div> -->
+        <div class="about">Currently a 3rd year student at the École Polytechnique who majors in computer science and data science. He is doing his research internship on NLP within qatent.</div>
+        <!-- <div class="social-link">
+            <a href="#"><i class="ti-linkedin"></i></a>
+        </div> -->
+    </div>
+</div>
+ </div>
+<script>
+    function teamAnim(e){
+        const tl = gsap.timeline();
+        //line
+    tl.fromTo('.title-line', {scale: 0}, {scale:1, duration: 1});
+    tl.fromTo('.teams', {opacity: 0}, {opacity: 1, duration: 3})
+
+    }
+
+    window.addEventListener('load', teamAnim);
+   
+
+</script>
+
+    {{end}}    
