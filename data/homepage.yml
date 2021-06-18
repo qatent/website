@@ -1,105 +1,99 @@
 ####################### Banner #########################
 banner:
-  title : "A.I. for patents"
-  image : "images/qatent-illustrated.svg"
-  content : "Natural Language Generation and machine learning to write better patents faster"
+  newsLink: https://information.patentepi.org/issue-2-2021/natural-language-generation-and-patents-be-ready.html
+  title: "A.I. for patents"
+  image: "images/qatent-illustrated.svg"
+  content: "Natural Language Generation and machine learning to write better patents faster"
   button:
-    enable : true
-    label : "Contact Us"
-    link : "mailto:qatent@inria.fr"
+    enable: true
+    label: "Contact Us"
+    link: "mailto:qatent@inria.fr"
 
 ##################### Feature ##########################
 feature:
-  enable : true
-  title : "**qatent** applies leading-edge Natural Language Generation and machine learning to patents."
+  enable: true
+  title: "**qatent** applies leading-edge Natural Language Generation and machine learning to patents."
   feature_item:
     # feature item loop
-    - name : "Draft easier"
-      icon : "ti-wand"
-      content : "Get rid of routine work, we automate what can be."
-      
+    - name: "Draft easier"
+      icon: "ti-wand"
+      content: "Get rid of routine work, we automate what can be."
+
     # feature item loop
-    - name : "Draft better"
-      icon : "ti-thumb-up "
-      content : "Get insights from the analysis of 70 million patent documents."
+    - name: "Draft better"
+      icon: "ti-thumb-up "
+      content: "Get insights from the analysis of 70 million patent documents."
 
       # feature item loop
-    - name : "Draft faster"
-      icon : "ti-timer"
-      content : "Leverage Natural Language Generation and machine learning."
-      
-    # feature item loop
-    - name : "Patent attorney support "
-      icon : "ti-headphone-alt"
-      content : "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
-      
-    # feature item loop
-    - name : "Secured"
-      icon : "ti-lock"
-      content : "With focus on the computer security of our platform, we handle your claims with confidentiality."
-      
-    # feature item loop
-    - name : "Trust"
-      icon : "ti-id-badge"
-      content : "INRIA is a highly trustable institution and renowned lab in France for computer science."
-      
-    
-      
+    - name: "Draft faster"
+      icon: "ti-timer"
+      content: "Leverage Natural Language Generation and machine learning."
 
+    # feature item loop
+    - name: "Patent attorney support "
+      icon: "ti-headphone-alt"
+      content: "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
+
+    # feature item loop
+    - name: "Secured"
+      icon: "ti-lock"
+      content: "With focus on the computer security of our platform, we handle your claims with confidentiality."
+
+    # feature item loop
+    - name: "Trust"
+      icon: "ti-id-badge"
+      content: "INRIA is a highly trustable institution and renowned lab in France for computer science."
 
 ######################### Service #####################
 service:
-  enable : true
+  enable: true
   service_item:
     # service item loop
-    - title : "**qatent** develops the most advanced technology for patent documents"
+    - title: "**qatent** develops the most advanced technology for patent documents"
       images:
-      - "images/service-1.png"
-      - "images/almanachInriaBabel.png"
-      - "images/raphael-schaller-GkinCd2enIY-unsplash.jpg"
-      content : "Natural Language Processing and Generation. <br>Machine learning. <br>Heuristics. Know-how encoding. And more."
+        - "images/service-1.png"
+        - "images/almanachInriaBabel.png"
+        - "images/raphael-schaller-GkinCd2enIY-unsplash.jpg"
+      content: "Natural Language Processing and Generation. <br>Machine learning. <br>Heuristics. Know-how encoding. And more."
       button:
-        enable : true
-        label : "Get into contact with us"
-        link : "mailto:qatent@inria.fr"
-        
+        enable: true
+        label: "Get into contact with us"
+        link: "mailto:qatent@inria.fr"
+
     # service item loop
-    - title : "**qatent** benefits from the support of Inria, a leading research organization"
+    - title: "**qatent** benefits from the support of Inria, a leading research organization"
       images:
-      - "images/service-1.png"
-      content : "**qatent** benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021).  <br>We are affiliated with and hosted by the [ALMAnaCH Inria team](https://team.inria.fr/almanach/) specializing in Deep Learning for Natural Language Processing. <br>**qatent** also offers support by our French patent attorney in the team."
+        - "images/service-1.png"
+      content: "**qatent** benefits from the support of the National Institute for Research in Computer Science and Automation (Inria) support and expertise (1772 researchers in 2021).  <br>We are affiliated with and hosted by the [ALMAnaCH Inria team](https://team.inria.fr/almanach/) specializing in Deep Learning for Natural Language Processing. <br>**qatent** also offers support by our French patent attorney in the team."
       button:
-        enable : true
-        label : "Find out more about Inria"
-        link : "https://www.inria.fr/en"
-        
+        enable: true
+        label: "Find out more about Inria"
+        link: "https://www.inria.fr/en"
+
     # service item loop
-    - title : "A team with unique track records"
+    - title: "A team with unique track records"
       images:
-      - "images/almanachInriaBabel.png"
-      content : "[Kim Gerdes](https://gerdes.fr) is a Professor in Computational Linguistics, co-responsible for the Master track “Artificial Intelligence” ([University Paris Saclay](https://www.universite-paris-saclay.fr/)) and former member of the [ALMAnaCH team](https://team.inria.fr/almanach/).<br>Jean-Marc Deltorn is senior researcher at CEIPI where he co-directs the university diploma on AI & IP and formerly responsible for the examination of AI applications at the  European Patent Office."
+        - "images/almanachInriaBabel.png"
+      content: "[Kim Gerdes](https://gerdes.fr) is a Professor in Computational Linguistics, co-responsible for the Master track “Artificial Intelligence” ([University Paris Saclay](https://www.universite-paris-saclay.fr/)) and former member of the [ALMAnaCH team](https://team.inria.fr/almanach/).<br>Jean-Marc Deltorn is senior researcher at CEIPI where he co-directs the university diploma on AI & IP and formerly responsible for the examination of AI applications at the  European Patent Office."
       button:
-        enable : true
-        label : "Check it out"
-        link : "https://www.linkedin.com/in/jean-marc-deltorn-809751158/"
-        
-  
-    #    
+        enable: true
+        label: "Check it out"
+        link: "https://www.linkedin.com/in/jean-marc-deltorn-809751158/"
+
+    #
 # ################### Screenshot ########################
 # screenshot:
 #   enable : true
 #   title : "Contact us now, let's draft your claims and description: qatent@inria.fr"
 #   image : "images/qatent-scene.svg"
 
-  
-
 ##################### Call to action #####################
 call_to_action:
-  enable : true
-  title : "Let's draft your claims and description"
-  image : "images/getting-started.svg"
-  content : "Contact us now: qatent@inria.fr"
+  enable: true
+  title: "Let's draft your claims and description"
+  image: "images/getting-started.svg"
+  content: "Contact us now: qatent@inria.fr"
   button:
-    enable : true
-    label : "Contact Us"
-    link : "mailto:qatent@inria.fr"
+    enable: true
+    label: "Contact Us"
+    link: "mailto:qatent@inria.fr"
