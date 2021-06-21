@@ -1,6 +1,13 @@
+####################### Information #########################
+information:
+  title: "Introduction to Qatent"
+  button:
+    enable: true
+    label: "Natural language generation and patents: be ready!"
+    link: "https://information.patentepi.org/issue-2-2021/natural-language-generation-and-patents-be-ready.html"
+
 ####################### Banner #########################
 banner:
-  newsLink: https://information.patentepi.org/issue-2-2021/natural-language-generation-and-patents-be-ready.html
   title: "A.I. for patents"
   image: "images/qatent-illustrated.svg"
   content: "Natural Language Generation and machine learning to write better patents faster"
