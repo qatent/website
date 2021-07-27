@@ -3,8 +3,8 @@ information:
   title: "A.I. for patents"
   button:
     enable: true
-    label: 'Read EPI Journal article (06/2021) entitled "Natural language generation and patents: be ready!"'
-    labelCaption: Go button
+    label: 'Read: EPI Journal article (06/2021) entitled "Natural language generation and patents: be ready!"'
+    labelCaption: Go
     link: "https://information.patentepi.org/issue-2-2021/natural-language-generation-and-patents-be-ready.html"
 
 ####################### Banner #########################

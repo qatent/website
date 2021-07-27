@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<div class="container" id="contact">
+    <div class="title-header">
+        <h1>DEMO</h1>
+        <div class="title-line"></div>
+      </div>
+    <div class="row">
+     
+        <section class="details-form">
+          {{ .Content }}
+          
+          <div role="form" class="contact-form">
+            <form name="contact" id="contact" action="#" class="moodlebox-form" method="post">
+              
+              <div class="control-group">
+                <label>Please first enter your Email</label><br />
+                <input type="email" name="_email" id="_email" required class="form-control text">
+                
+              </div>
+              <div class="control-group">
+                  <button class="btn btn-sm btn-primary" id="nextBtn">Next</button>
+              </div>
+              
+            </form>
+          </div>
+        
+        </section>
+      </div> <!-- col-md-9 -->
+    
+    </div> <!-- /.row -->
+  </div>
+
+  <script>
+    
+      const element = document.querySelector('#nextBtn');
+      element.addEventListener('click', ()=>{
+         console.log("button clicked");
+     })
+
+    </script>
+
+    {{end}}    

@@ -65,6 +65,8 @@ name = "Intranet"
 URL = "https://intranet.qatent.com"
 weight = 6
 
+
+
 [[menu.main]]
 name = "Roadmap"
 URL = "roadmap"
