@@ -12,7 +12,7 @@
         <section class="details-form">
           {{ .Content }}
           
-          <div role="form" class="contact-form">
+          <!-- <div role="form" class="contact-form">
             <form name="contact" id="contact" action="#" class="moodlebox-form" method="post">
               
               <div class="control-group">
@@ -25,8 +25,54 @@
               </div>
               
             </form>
-          </div>
+          </div> -->
         
+
+          <p>Register to try the demo version</p>
+
+<div>
+  <form action="https://intranet.qatent.com:8000/requestdemo/requestdemo/" 
+  method="POST"
+  accept-charset="UTF-8">
+  <div class="input-line">
+    <div class="input-section">
+      <h5><label for="fname">FIRST NAME *</label></h5>
+      <input class="name" type="text" id="fname" name="first_name" placeholder="Your name.." required>
+    </div>
+   <div class="input-section">
+    <h5><label for="lname">LAST NAME *</label></h5>
+    <input type="text" class="name" id="lname" name="last_name" placeholder="Your last name.." required>
+   </div>
+   
+  </div>
+
+  <div class="input-line">
+    <div class="input-section">
+    <h5><label for="lname">JOB TITLE *</label></h5>
+    <input type="text" class="jobtitle" id="lname" name="job_title" placeholder="What is your Job Title?" required>
+  </div>
+  <div class="input-section">
+    <h5><label for="lname">COMPANY *</label></h5> 
+    <input type="text" class="company" id="company" name="company" placeholder="Your company.." required>
+    </div>
+
+  </div>
+  <div class="input-line">
+    <div class="input-section">
+  <h5><label for="lname">EMAIL *</label></h5>
+  <input class=" email" type="email" id="email" name="email" placeholder="Your email" required>
+</div>
+</div>
+<div class="input-line">
+  <div class="input-section">
+  <h5><label for="lname">COMMENTS(optional) *</label></h5>
+    <textarea cols="50" id="comments" name="comments" placeholder="message.." required>
+      </textarea>
+    </div>
+    </div>
+    <button id="nextBtn" type="submit" class="btn btn-primary">Request Demo</button>
+  </form>
+</div>
         </section>
       </div> <!-- col-md-9 -->
     
@@ -35,10 +81,41 @@
 
   <script>
     
-      const element = document.querySelector('#nextBtn');
-      element.addEventListener('click', ()=>{
-         console.log("button clicked");
-     })
+      // const element = document.querySelector('#nextBtn');
+      // element.addEventListener('click', ()=>{
+    // let first_name = document.querySelector('#fname').value;
+    //  const last_name = document.querySelector('#lname');
+    //  const email = document.querySelector('#email');
+    //  const job_title = document.querySelector('#company');
+    //  const first_name = document.querySelector('#comments');
+    //  console.log('btn clicked');
+    //  });
+    // const url = 'https://intranet.qatent.com:8000/requestdemo/requestdemo/';
+    // const  formEl = document.querySelector('form');
+    // let jsonObject;
+    // formEl.addEventListener('submit', async (e)=>{
+    //     e.preventDefault();
+    //     const formData = new FormData(formEl);
+    //     const formDataSerialized = Object.fromEntries(formData);
+    //     console.log(formDataSerialized);
+    //    jsonObject  = {
+    //       ...formDataSerialized,
+    //     };
+    // });
+    
+    
+    //    fetch(url,{
+    //     method: 'POST',
+    //     body: JSON.stringify(jsonObject),
+    //     headers: {
+    //       'Content-Type' : 'application/json'
+    //     },
+    //   }).then(res => console.log(res)).catch(err => console.error(err));
+    //   // const json  = await response.json();
+    //   // console.log("json:",json);
+    
+
+    //  console.log(JSON.stringify.jsonObject);
 
     </script>
 
