@@ -1,6 +1,6 @@
 ####################### Information #########################
 information:
-  title: "A.I. for patents: Drafting Automation and Machine Insights"
+  title: "A.I. for patents: drafting automation and machine insights"
   button:
     enable: true
     label: 'Read: EPI Journal article (06/2021) entitled "Natural language generation and patents: be ready!"'
