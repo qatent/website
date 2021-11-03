@@ -28,7 +28,7 @@ draft: false
 </div>
 <div class='profileDetail'>
 
-[**Kim Gerdes**](https://gerdes.fr) Professor in Computational Linguistics, member of the TLP research group at the Lisn, co-responsible for the Master track “Artificial Intelligence” [University Paris Saclay](https://www.universite-paris-saclay.fr/)
+[**Kim Gerdes**](https://gerdes.fr) Professor in Computational Linguistics, member of the TLP research group at the Lisn, responsible for the Master track “Artificial Intelligence” [University Paris Saclay](https://www.universite-paris-saclay.fr/)
 
 </div>
 </div>
