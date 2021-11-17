@@ -61,8 +61,8 @@ URL = "products"
 weight = 1
 
 [[menu.main]]
-name = "Intranet"
-URL = "https://intranet.qatent.com"
+name = "Beta"
+URL = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
 weight = 6
 
 
