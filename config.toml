@@ -159,4 +159,4 @@ icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/qatent/"
 
 
-disableKinds = ["jobs"]
+disableKinds = ["disablejobs"]
