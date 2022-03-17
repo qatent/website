@@ -8,7 +8,7 @@ type: "regular"
 # meta description
 description: "qatent: NLP backend engineer"
 # post draft
-draft: false
+draft: true
 ---
 
 ## Ingénieur Backend TAL (12 mois) @Centre Inria, Paris 12e, Inria Startup Studio & équipe Almanach
@@ -27,33 +27,34 @@ Début du contrat idéal : début mars.
 Possibilité réelle de pérennisation du contrat (Inria, création de Start-up, etc), y compris des parts dans la société à construire.
 
 ### Principales activités
+
 Les activités porteront sur :
-- le développement logiciel (back-end) de la plateforme 
+
+- le développement logiciel (back-end) de la plateforme
 - l’extraction d’information à partir de très grands corpus ;
-travail en terminologie;
+  travail en terminologie;
 - travail sur des plongements lexicaux (embeddings) spécifiques aux textes techniques : affinement de modèles BERT;
 - génération de texte, complétion de phrases;
 - le développement de backend en Django (comptes clients, etc);
 - gestion de bases de données SQLite;
 - bonne maîtrise de l'anglais;
-- aide pour la sécurisation du backend  (e.g. double authentication).
+- aide pour la sécurisation du backend (e.g. double authentication).
 
 ### Compétences
 
-- Très bon niveau en Python 
+- Très bon niveau en Python
 - Très bonne maîtrise d’un framework ML tel que PyTorch et TensorFlow
 - Connaissances solides en matière de Traitement du Langage Naturel
 - Très bonne maîtrise des librairies Python/TAL (Spacy, NLTK, etc.)
 - Pratique de SQLite ou équivalent
 
-
 ### L'essentiel pour réussir
+
 Les activités porteront sur :
+
 - Le développement de mini-projets dans le projet, par exemple travail sur des plongements lexicaux (embeddings) spécifiques aux textes techniques e.g. affinement de modèles BERT, l’extraction d’information à partir de très grands corpus, génération de texte, des auto-complétions de revendications, travail en terminologie, etc. Vous êtes prêts à des itérations rapides, en développement agile.
 - Le développement logiciel (back-end), en lien avec le front-end de la plateforme d’assistance à la rédaction de demandes de brevet.
- - Vous pourrez contribuer à la sécurisation de la plateforme côté backend  (e.g. double authentication)
+- Vous pourrez contribuer à la sécurisation de la plateforme côté backend (e.g. double authentication)
 - La participation aux réunions d’équipes (choix et développement agile de nouvelles fonctionnalités)
 
-
 <hr>
-
