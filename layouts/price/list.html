@@ -1,0 +1,110 @@
+
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+<div class="title-header">
+    <h1>PRICING</h1>
+    <div class="title-line"></div>
+    
+  </div>
+
+  <div  class="row text-primary "><i class="mx-6 mb-2 ">qatent for now handles all inventions except chemistry and biology (summer 2022)</i></div>
+  
+<div class="container pb-4 mb-5">
+    <!-- FOR DEMO PURPOSE -->
+    
+        <div class="row text-center align-items-center mx-xl" >
+          <!-- Pricing Table-->
+          <div class="col-5 mb-5 mb-lg-0 bg-white mx-3 px-0" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+            <div class="p-2">
+                <h1 class="h6 text-uppercase font-weight-bold mb-4">Standard</h1>
+                <div class="row"><h2 class="h1 font-weight-bold">899€</h2><span class="text-break font-weight-normal ml-2" >excl. tax</span></div>
+            </div>
+            <div class="bg-white px-4 pb-4 rounded-lg shadow price-tab" >
+              
+             
+              <div class="custom-separator my-4 mx-auto bg-primary"></div>
+              <ul class="list-unstyled my-5 text-small text-left">
+                <li class="pb-3 border-bottom">
+                    <i class="ti-close text-danger"> </i>  2h interview with our French Patent Attorney: real-time drafting of your patent
+                        claims in videoconference. </li>
+                <li class="mp-3 border-bottom">
+                  <i class="ti-check text-success"> </i><b class="text-primary">1 generation</b>  of a patent application from your patent claims (upto 35 pages)
+                  <ul>
+                    <li>
+                        
+                      You can iterate modulo 50 words in Claim 1, i.e. generate multiple times with
+                      different settings: you obtain your patent application
+                    </li>
+                    <li> <del>You review and amend the text of the entire document</del></li>
+                    
+                </ul>
+                </li>
+                
+                
+                <li class="pb-3 text-muted border-bottom">
+                    <i class="ti-close text-danger"> </i> 
+                  2h review by our French Patent Attorney
+                </li>
+                <li class="mb-3">
+                    <i class="ti-check text-success"> </i>You can <b class="text-primary">file the patent application </b> before Patent Offices
+                </li>
+                
+              </ul>
+              <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Get Started</a>
+            </div>
+          </div>
+          <!-- END -->
+          <!-- Pricing Table-->
+          <div class="col-5 mb-5 mb-lg-0 bg-white mx-3 px-0" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+            <div class="bg-primary py-2 rounded-top">
+                <h1 class="h6 text-uppercase font-weight-bold mb-4 text-white">Business</h1>
+                <div class="row"><h2 class="h1 font-weight-bold text-white">1299€</h2><span class="text-small font-weight-normal ml-2 text-white"> excl. tax</span></div>
+          
+            </div>
+            <div class="bg-white px-4 pb-4 rounded-lg shadow price-tab">
+                
+              
+              <!-- <div class="custom-separator my-4 mx-auto bg-primary"></div> -->
+              <ul class="list-unstyled my-5 text-small text-left font-weight-normal ">
+                <li class="pb-3 border-bottom">
+                    <i class="ti-check text-success"></i> <b class="text-primary">2h interview</b>  with our French Patent Attorney: real-time drafting of your patent
+                    claims in videoconference (in English).</li>
+                <li class="mp-3 border-bottom">
+                  <i class="ti-check mr-2 text-success"></i> <b class="text-primary"> 1 generation</b> of a patent application from your patent claims (upto 35 pages)
+                  <ul>
+                    <li>You can iterate modulo 50 words in Claim 1, i.e. generate multiple times with
+                      different settings: you obtain your full patent application</li>
+                      <li>You <b class="text-primary">review and amend</b>  the text of the entire document
+                      </li>
+                      
+                </ul>
+                </li>
+                 
+                
+                <li class="pb-3 text-muted border-bottom">
+                    <i class="ti-check mr-2 text-success"></i><b class="text-primary">2h review</b> by our French Patent Attorney</li>
+                <li class="mb-3">
+                    <i class="ti-check mr-2 text-success"></i> You can  <b class="text-primary">file the patent application</b>  before Patent Offices</li>
+                
+              </ul>
+              <a href="#" class="btn btn-primary btn-block p-2 shadow rounded-pill">Get Started</a>
+            </div>
+          </div>
+          <!-- END -->
+          <!-- Pricing Table-->
+         
+          <!-- END -->
+        </div>
+      </div>
+    
+      <script>
+        function teamAnim(e){
+            const tl = gsap.timeline();
+             //line
+            tl.fromTo('.title-line', {scale: 0}, {scale:1, duration: 1});
+         }
+        
+         window.addEventListener('load', teamAnim);
+        </script>
+{{end}}

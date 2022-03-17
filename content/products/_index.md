@@ -6,7 +6,7 @@ description: "qatent patent"
 draft: false
 ---
 
-#### Demos will be proposed in September with live support of François, our qualified French patent attorney (“Conseil en Propriété Industrielle”). Code developments are ongoing.
+#### Demo sessions are available now with live support of François, our qualified French patent attorney (“Conseil en Propriété Industrielle”). Code developments are ongoing. qatent for now handles all inventions except chemistry and biology (summer 2022)!
 
 {{< faq "1. Claim drafting dashboard: Claim wider!" >}}
 

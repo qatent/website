@@ -47,7 +47,7 @@ weight = 3
 
 [[menu.main]]
 name = "Pricing"
-URL = "pricing"
+URL = "price"
 weight = 2
 
 [[menu.main]]
@@ -62,6 +62,7 @@ weight = 1
 
 [[menu.main]]
 name = "Beta"
+target = "_blank"
 URL = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
 weight = 6
 
@@ -84,7 +85,7 @@ URL = "products"
 # footer menu middle
 [[menu.footer_middle]]
 name = "Pricing"
-URL = "pricing"
+URL = "price"
 
 [[menu.footer_middle]]
 name = "Roadmap"

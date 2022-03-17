@@ -23,14 +23,16 @@ draft: false
 #     link: "mailto:qatent@inria.fr"
 
 professional:
-  name: "Professional Plan"
-  price: "free"
-  price_per: "1 invention"
+  name: "Standard Plan"
+  price: "899€"
+  price_per: "excl. tax"
   info: "Best For Professionals"
   services:
-    - "15 minutes claim drafting assistance"
-    - "Discover how **qatent** technology can assist your patent drafting process"
-    - "Take home some new terms, structures, and ideas for the description of your invention"
+    - "One generation of a patent application from your patent claims (from 20 to 35 pages)"
+    - "You can iterate modulo 50 words in Claim 1, i.e. generate multiple times with
+different settings: you obtain your patent application"
+    - "You can file the patent application before Patent Offices"
+    - "X"
 
   button:
     enable: true
@@ -39,13 +41,18 @@ professional:
 
 business:
   name: "Business Plan"
-  price: "150€"
-  price_per: "hour"
+  price: "1299€"
+  price_per: "excl. tax"
   info: "Best For Companies"
   services:
-    - "Use our prototypes and get confidential claim drafting assistance from our patent attorney."
-    - "Dive right away into deep-tech tools for your ongoing project"
-    - "See your needs being coded into reality between sessions"
+    - "A two-hours interview with our French Patent Attorney: real-time drafting of your patent
+claims in videoconference (in English)."
+    - "One generation of a patent application from your patent claims (from 20 to 35 pages) - You can iterate modulo 50 words in Claim 1, i.e. generate multiple times with
+different settings: you obtain your full patent application"
+    - ""
+    - "You review and amend the text of the entire document"
+    - "A two-hours review by our French Patent Attorney"
+    - "You can file the patent application before Patent Offices"
   button:
     enable: true
     label: "Get started"
