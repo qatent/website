@@ -6,7 +6,7 @@ description: "qatent patent"
 draft: false
 ---
 
-#### Demo sessions are available now with live support of François, our qualified French patent attorney (“Conseil en Propriété Industrielle”). Code developments are ongoing. qatent for now handles all inventions except chemistry and biology (summer 2022)!
+<!-- #### Demo sessions are available now with live support of François, our qualified French patent attorney (“Conseil en Propriété Industrielle”). Code developments are ongoing. qatent for now handles all inventions except chemistry and biology (summer 2022)! -->
 
 {{< faq "1. Claim drafting dashboard: Claim wider!" >}}
 
@@ -29,7 +29,7 @@ draft: false
 - Control the risk of objections during patent prosecution.
   {{</ faq >}}
 
-{{< faq "4. Trends" >}}
+<!-- {{< faq "4. Trends" >}}
 
 - We love AI/ML, quantum physics and blockchains. Get insights about weak signals.
-  {{</ faq >}}
+  {{</ faq >}} -->

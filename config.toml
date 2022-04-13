@@ -56,22 +56,19 @@ URL = "contact"
 weight = 5
 
 [[menu.main]]
-name = "products"
-URL = "products"
+name = "Service"
+URL = "service"
 weight = 1
 
 [[menu.main]]
-name = "Beta"
-target = "_blank"
-URL = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
-weight = 6
+# name = "Test it for free"
+# target = "_blank"
+# URL = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
+# weight = 6
 
 
 
-[[menu.main]]
-name = "Roadmap"
-URL = "roadmap"
-weight = 4
+
 
 # footer menu left
 # [[menu.footer_left]]
@@ -79,8 +76,8 @@ weight = 4
 # URL = "about"
 
 [[menu.footer_middle]]
-name = "Products"
-URL = "products"
+name = "Service"
+URL = "service"
 
 # footer menu middle
 [[menu.footer_middle]]
@@ -112,8 +109,8 @@ URL = "team"
 # URL = "terms-conditions"
 
 # [[menu.footer_right]]
-# name = "products"
-# URL = "products"
+# name = "Service"
+# URL = "service"
 
 #################### default parameters ################################
 [params]
@@ -141,8 +138,9 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [params.navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "Test it for free"
+pre = "<b>Test it for free</b>"
+link = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
 
   
 ############################# social site ########################
