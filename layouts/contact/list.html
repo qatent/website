@@ -14,19 +14,21 @@
   <div id='contact'>
     <div id='contact'>
       <div class="contact-section">
-      <!-- <div class="contact-img">
+      <div class="contact-img">
       <h1>Get in touch</h1>
       <img src="/images/contactPicture.svg" alt="Contact-Picture" class="contactimg" >
-      </div> -->
-      <div class="contact-form">
+      </div>
+      <!-- <div class="contact-form">
         <h1>Send us a message</h1>
-        <form action="">
+        <form action="https://dev.qatent.com:8000/requestdemo/contactus/" method="post">
         <div class="contact-box"><h5 >Full Name</h5><input class="name" type="text" name="first_name" id="fname" required></div>
         <div class="contact-box"><h5>Email</h5><input class=" email" type="email" id="email" name="email" placeholder="Your email" required></div>
         <div class="contact-box"><h5>Message</h5><textarea  id="comments" name="comments" placeholder="message.."  cols="44" rows="5"></textarea></div>
         </form>
         <button class="submit-btn" id="nextBtn" type="submit">Send Message</button>
-      </div>
+        <div  id="alert-container" >
+        </div>
+      </div> -->
       <div class="contact-info">
         
         <div id="book-meeting">
@@ -94,40 +96,56 @@ window.addEventListener('load', teamAnim);
 window.addEventListener("load", contactAnimation);
 window.addEventListener("resize", contactAnimation);
 
-const element = document.querySelector('#nextBtn');
-      element.addEventListener('click', ()=>{
-     const full_name = document.querySelector('#fname').value;
-     const email = document.querySelector('#email').value;
-     const message = document.querySelector('#comments').value;
-     console.log('btn clicked');
-     });
-    const url = 'https://dev.qatent.com:8000/requestdemo/requestdemo/';
-    const  formEl = document.querySelector('form');
-    console.log(formEl);
-    let jsonObject;
-    formEl.addEventListener('submit', async (e)=>{
-        e.preventDefault();
-        const formData = new FormData(formEl);
-        const formDataSerialized = Object.fromEntries(formData);
-        console.log(formDataSerialized);
-       jsonObject  = {
-          ...formDataSerialized,
-        };
-    });
-    
-    
-       fetch(url,{
-        method: 'POST',
-        body: JSON.stringify(jsonObject),
-        headers: {
-          'Content-Type' : 'application/json'
-        },
-      }).then(res => console.log(res)).catch(err => console.error(err));
-      // const json  = await response.json();
-      // console.log("json:",json);
-    
+// const element = document.querySelector('#nextBtn');
+//     element.addEventListener('click', ()=>{
+//     const full_name = document.querySelector('#fname').value;
+//     const email = document.querySelector('#email').value;
+//     const message = document.querySelector('#comments').value;
+//     const url = 'https://dev.qatent.com:8000/requestdemo/contactus/';
+//     const  formEl = document.querySelector('form');
+//     fetch(url,{
+//         method: 'POST',
+//         body: JSON.stringify({full_name , email, message}),
+//         headers: {
+//           'Content-Type' : 'application/json'
+//         },
+//       }).then((res) =>{
+// if(res){
+//   let alerts = document.getElementById("alert-container");
+//   document.querySelector('#fname').value = '';
+//     document.querySelector('#email').value = '';
+//     document.querySelector('#comments').value = '';
+   
+//     if (alerts.childElementCount < 2) {
+//       // Create alert box
+//       let alertBox = document.createElement("div");
+//       alertBox.classList.add("alert-msg", "slide-in");
 
-     console.log(JSON.stringify.jsonObject);
+//       // Add message to alert box
+//       let alertMsg = document.createTextNode("Message sent successfully");
+//       alertBox.appendChild(alertMsg);
+
+//       // Add alert box to parent
+//       alerts.insertBefore(alertBox, alerts.childNodes[0]);
+
+//       // Remove last alert box
+//       alerts.childNodes[1].classList.add("slide-out");
+//       setTimeout(function() {
+//          alerts.removeChild(alerts.lastChild);
+//       }, 600);
+//    }
+// }
+    
+//       }).catch(err => console.error(err));
+      
+
+    
+//      });
+   
+   
+    
+    
+      
 </script>
 
 <!-- call to action -->
