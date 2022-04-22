@@ -94,9 +94,7 @@ URL = "contact"
 name = "Team"
 URL = "team"
 
-[[menu.footer_middle]]
-# name = "Roadmap"
-# URL = "roadmap"
+
 
 
 
@@ -128,7 +126,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
 # footer_menu_left = "Company"
-footer_menu_middle = "Product"
+footer_menu_middle = "Service"
 footer_menu_right = "Company"
 footer_content = "A.I. for patents."
 # copyright
