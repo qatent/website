@@ -56,6 +56,11 @@ URL = "contact"
 weight = 5
 
 [[menu.main]]
+name = "Internship"
+URL = "jobs"
+weight = 4
+
+[[menu.main]]
 name = "Service"
 URL = "service"
 weight = 1
@@ -63,7 +68,7 @@ weight = 1
 [[menu.main]]
 # name = "Test it for free"
 # target = "_blank"
-# URL = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
+# URL = "https://my.qatent.com/login"
 # weight = 6
 
 
@@ -142,7 +147,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Test it for free"
 pre = "<b>Test it for free</b>"
-link = "https://docs.google.com/forms/d/e/1FAIpQLScsPtTFIdC7zgj4x24y2woYpdIj_CSRIDArNVn3u7wBHZZwTg/viewform"
+link = "https://my.qatent.com/login"
 
   
 ############################# social site ########################

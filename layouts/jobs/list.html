@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+<div class="title-header">
+    <h1>INTERNSHIP</h1>
+    <div class="title-line"></div>
+  </div>
+  <div class="row">
+    <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card border-0">
+          <img src="/images/uxinternship.jpg" alt="NLP backend engineer - 12 months" class="card-img rounded-lg mb-4">
+          <div class="card-body p-0">
+            <h3><a href="/jobs/jobs-1/" class="post-title">Stage 1: UX (6 mois) dans le domaine des brevets d’invention et I.A.</a></h3>
+            <p class="card-text">qatent est une startup en TAL qui travaille sur la génération de demandes de brevets à partir de revendications en utilisant l'intelligence artificielle. 
+                L'objectif du stage est de participer au développement d'outils et de fonctionnalités pour la rédaction de brevets. Plus précisément, le stagiaire mettra en œuvre de nouvelles fonctionnalités construites sur un éditeur de texte intelligent.
+                
+            </p>
+            <a href="/jobs/jobs-1/" class="btn btn-primary btn-sm">Read More</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 col-sm-6 mb-5">
+        <div class="card border-0">
+          <img src="https://qatent.com/images/markus-spiske-iar-afB0QQw-unsplash.jpg" alt="Stage 1: construction d’un vocabulaire de brevets à l&#39;aide du deep learning sur très grands corpus" class="card-img rounded-lg mb-4">
+          <div class="card-body p-0">
+            <h3><a href="/jobs/jobs-2/" class="post-title">Stage 2: Description textuelle automatique à partir d'une image  &#39;et inversement transformation de revendications de brevets en pré-images</a></h3>
+            <p class="card-text">Alors que le Traitement Automatique des Langues progresse à pas de géants, une partie importante des informations techniques contenues dans les brevets d'invention est encodée de manière graphique. Ces informations restent très difficiles d'accès, mais peuvent être stratégiques.</p>
+            <a href="/jobs/jobs-2/" class="btn btn-primary btn-sm">Read More</a>
+          </div>
+        </div>
+      </div>
+  </div>
+  
+
+
+<script>
+    function teamAnim(e){
+        const tl = gsap.timeline();
+         //line
+        tl.fromTo('.title-line', {scale: 0}, {scale:1, duration: 1});
+     }
+    
+     window.addEventListener('load', teamAnim);
+    </script>
+{{end}}
