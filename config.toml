@@ -56,7 +56,7 @@ URL = "contact"
 weight = 5
 
 [[menu.main]]
-name = "Internship"
+name = "Jobs"
 URL = "jobs"
 weight = 4
 
