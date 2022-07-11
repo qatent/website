@@ -48,9 +48,9 @@ feature:
       content: "With focus on the computer security of our platform, we handle your claims with confidentiality."
 
     # feature item loop
-    - name: "Trust"
-      icon: "ti-id-badge"
-      content: "INRIA is a highly trustable institution and renowned lab in France for computer science."
+    #- name: "Trust"
+     # icon: "ti-id-badge"
+     # content: "INRIA is a highly trustable institution and renowned lab in France for computer science."
 
 ######################### Service #####################
 service:
