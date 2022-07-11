@@ -97,12 +97,12 @@ François Veltz is a Patent Attorney specializing in the algorithmics behind pat
 #   image : "images/qatent-scene.svg"
 
 ##################### Call to action #####################
-call_to_action:
-  enable: true
-  title: "Let's draft your claims and description"
-  image: "images/getting-started.svg"
-  content: "Contact us now: fv@qatent.com"
-  button:
-    enable: true
-    label: "Contact Us"
-    link: "https://qatent.com/contact/"
+#call_to_action:
+ # enable: true
+ # title: "Let's draft your claims and description"
+  #image: "images/getting-started.svg"
+  #content: "Contact us now: fv@qatent.com"
+ # button:
+   # enable: true
+   # label: "Contact Us"
+    #link: "https://qatent.com/contact/"
