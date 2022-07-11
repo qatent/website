@@ -15,7 +15,7 @@ banner:
   button:
     enable: true
     label: "Contact Us"
-    link: "mailto:qatent@inria.fr"
+    link: "mailto:fv@qatent.com"
 
 ##################### Feature ##########################
 feature:
@@ -38,9 +38,9 @@ feature:
       content: "Leverage Natural Language Generation and machine learning."
 
     # feature item loop
-    - name: "Patent attorney support "
-      icon: "ti-headphone-alt"
-      content: "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
+     #- name: "Patent attorney support "
+      # icon: "ti-headphone-alt"
+      # content: "Get free real-time support by our qualified French patent attorney. CEST, 00 33 6 95 72 40 03 fveltz@gmail.com"
 
     # feature item loop
     - name: "Secured"
@@ -66,7 +66,7 @@ service:
       button:
         enable: true
         label: "Get into contact with us"
-        link: "mailto:qatent@inria.fr"
+        link: "mailto:fv@qatent.com"
 
     # service item loop
     - title: "**qatent** benefits from the support of Inria, a leading research organization"
@@ -101,7 +101,7 @@ call_to_action:
   enable: true
   title: "Let's draft your claims and description"
   image: "images/getting-started.svg"
-  content: "Contact us now: qatent@inria.fr"
+  content: "Contact us now: fv@qatent.com"
   button:
     enable: true
     label: "Contact Us"

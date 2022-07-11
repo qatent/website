@@ -31,13 +31,13 @@ professional:
     - "One generation of a patent application from your patent claims (from 20 to 35 pages)"
     - "You can iterate modulo 50 words in Claim 1, i.e. generate multiple times with
 different settings: you obtain your patent application"
-    - "You can file the patent application before Patent Offices"
-    - "X"
+    #- "You can file the patent application before Patent Offices"
+    #- "X"
 
   button:
     enable: true
     label: "Get started"
-    link: "mailto:qatent@inria.fr"
+    link: "mailto:fv@qatent.com"
 
 business:
   name: "Business Plan"
@@ -56,7 +56,7 @@ different settings: you obtain your full patent application"
   button:
     enable: true
     label: "Get started"
-    link: "mailto:qatent@inria.fr"
+    link: "mailto:fv@qatent.com"
 
 call_to_action:
   enable: true
@@ -66,5 +66,5 @@ call_to_action:
   button:
     enable: true
     label: "Contact Us"
-    link: "mailto:qatent@inria.fr"
+    link: "mailto:fv@qatent.com"
 ---
